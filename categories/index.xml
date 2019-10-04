@@ -7,53 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 15 Feb 2018 14:14:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jul 2018 16:00:36 +0000</lastBuildDate>
     
 	<atom:link href="https://passcode.fr/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Anomalycode</title>
-      <link>https://passcode.fr/categories/anomalycode/</link>
-      <pubDate>Thu, 15 Feb 2018 14:14:59 +0000</pubDate>
-      
-      <guid>https://passcode.fr/categories/anomalycode/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blogcode</title>
+      <title>BLOGcode</title>
       <link>https://passcode.fr/categories/blogcode/</link>
       <pubDate>Mon, 16 Jul 2018 16:00:36 +0000</pubDate>
       
       <guid>https://passcode.fr/categories/blogcode/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Other</title>
-      <link>https://passcode.fr/categories/other/</link>
-      <pubDate>Sat, 21 Apr 2018 05:00:00 +0000</pubDate>
-      
-      <guid>https://passcode.fr/categories/other/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wotdcode</title>
-      <link>https://passcode.fr/categories/wotdcode/</link>
-      <pubDate>Thu, 12 Apr 2018 16:00:28 +0000</pubDate>
-      
-      <guid>https://passcode.fr/categories/wotdcode/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>剧情</title>
-      <link>https://passcode.fr/categories/%E5%89%A7%E6%83%85/</link>
-      <pubDate>Mon, 14 May 2018 16:00:32 +0000</pubDate>
-      
-      <guid>https://passcode.fr/categories/%E5%89%A7%E6%83%85/</guid>
       <description></description>
     </item>
     
@@ -67,11 +31,47 @@
     </item>
     
     <item>
+      <title>剧情</title>
+      <link>https://passcode.fr/categories/%E5%89%A7%E6%83%85/</link>
+      <pubDate>Mon, 14 May 2018 16:00:32 +0000</pubDate>
+      
+      <guid>https://passcode.fr/categories/%E5%89%A7%E6%83%85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other</title>
+      <link>https://passcode.fr/categories/other/</link>
+      <pubDate>Sat, 21 Apr 2018 05:00:00 +0000</pubDate>
+      
+      <guid>https://passcode.fr/categories/other/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WOTDcode</title>
+      <link>https://passcode.fr/categories/wotdcode/</link>
+      <pubDate>Thu, 12 Apr 2018 16:00:28 +0000</pubDate>
+      
+      <guid>https://passcode.fr/categories/wotdcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>未解</title>
       <link>https://passcode.fr/categories/%E6%9C%AA%E8%A7%A3/</link>
       <pubDate>Sun, 11 Mar 2018 02:35:26 +0000</pubDate>
       
       <guid>https://passcode.fr/categories/%E6%9C%AA%E8%A7%A3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anomalycode</title>
+      <link>https://passcode.fr/categories/anomalycode/</link>
+      <pubDate>Thu, 15 Feb 2018 14:14:59 +0000</pubDate>
+      
+      <guid>https://passcode.fr/categories/anomalycode/</guid>
       <description></description>
     </item>
     
