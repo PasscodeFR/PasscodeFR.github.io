@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>base5 on Ingress Decode Group</title>
@@ -19,10 +19,8 @@
       
       <guid>https://passcode.fr/blog/2018/02/05/jojo-literatim/</guid>
       <description>&lt;h3 id=&#34;literatim&#34;&gt;&lt;strong&gt;Literatim&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;span data-sheets-value=&#34;&#34; data-sheets-userformat=&#34;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:[null,0],&amp;quot;12&amp;quot;:0}&#34;&gt;Letter-for-letter; literally.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&#34;op_dict_text2&#34;&gt;逐字地,照字义地&lt;/span&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Letter-for-letter; literally.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;逐字地,照字义地&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ingress Decode Group</title>
@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 16 Jul 2018 16:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2020 02:30:29 +0800</lastBuildDate>
     
 	<atom:link href="https://passcode.fr/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Misc</title>
+      <link>https://passcode.fr/categories/misc/</link>
+      <pubDate>Sun, 29 Mar 2020 02:30:29 +0800</pubDate>
+      
+      <guid>https://passcode.fr/categories/misc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BLOGcode</title>
