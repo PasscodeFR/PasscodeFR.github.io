@@ -6,7 +6,7 @@
     <description>Recent content in base5 on Ingress Decode Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018. All rights reserved.</copyright>
+    <copyright>&amp;copy; 2020. All rights reserved.</copyright>
     <lastBuildDate>Mon, 05 Feb 2018 06:30:17 +0000</lastBuildDate>
     
 	<atom:link href="https://passcode.fr/tags/base5/index.xml" rel="self" type="application/rss+xml" />
@@ -19,8 +19,8 @@
       
       <guid>https://passcode.fr/blog/2018/02/05/jojo-literatim/</guid>
       <description>&lt;h3 id=&#34;literatim&#34;&gt;&lt;strong&gt;Literatim&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Letter-for-letter; literally.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;逐字地,照字义地&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;span data-sheets-value=&#34;&#34; data-sheets-userformat=&#34;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:[null,0],&amp;quot;12&amp;quot;:0}&#34;&gt;Letter-for-letter; literally.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;op_dict_text2&#34;&gt;逐字地,照字义地&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

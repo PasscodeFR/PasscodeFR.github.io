@@ -39,7 +39,7 @@
   <meta property="og:title" content="如何方便的的撰写文章并同步到GitHub"/>
   <meta property="og:type"
         content="article"/>
-  <meta property="og:url" content="https://passcode.fr/post/2020-03-29-%E5%A6%82%E4%BD%95%E6%96%B9%E4%BE%BF%E7%9A%84%E7%9A%84%E6%92%B0%E5%86%99%E6%96%87%E7%AB%A0%E5%B9%B6%E5%90%8C%E6%AD%A5%E5%88%B0github/"/>
+  <meta property="og:url" content="https://passcode.fr/blog/2020/03/29/%E5%A6%82%E4%BD%95%E6%96%B9%E4%BE%BF%E7%9A%84%E7%9A%84%E6%92%B0%E5%86%99%E6%96%87%E7%AB%A0%E5%B9%B6%E5%90%8C%E6%AD%A5%E5%88%B0github/"/>
   <meta property="og:image"
         content=""/>
   <meta property="og:description"
@@ -188,26 +188,25 @@
 <h2 id="保存后会发生什么">保存后会发生什么</h2>
 <p><code>Ctrl + S</code> 保存后，文章将被进行一次commit，然后走CI流程上线到博客网站。如果还只是草稿不想立刻上线可以在文章最上方的meta信息种输入  draft:true
 附赠一份文章的meta信息，这些信息将被解析到网站的目录，每篇文章的头部都应该带上这些信息：</p>
-<blockquote>
-<p>---
+<pre><code>---
 title: 文章标题(标题与markdown文件名是无关的，这里决定标题)
-<strong>draft:true</strong>
+**draft:true**
 author: 文章作者
 type: post
 date: 2020-03-29 02:30:29 +0800(日期)
+url: /blog/2020/03/29/文章标题/
 categories:
-- Misc (分类)
----</p>
-</blockquote>
-<p>文件信息也可以在这里加：</p>
+  - Misc (分类)
+---
+</code></pre><p>文件信息也可以在这里加：</p>
 <p><img src="https://i.loli.net/2020/03/29/udjv63yZMSXRCpa.png" alt="image.png"></p>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<blockquote>
-</blockquote>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwNTAwNDgzNTEsLTE2OTI1MjE3NzcsMj
+AxNjAyMjM4N119
+-->
 
         </div>
 
@@ -317,7 +316,7 @@ categories:
           </a> &nbsp;
 
           
-          <a class="button" href="https://github.com/enldecode">
+          <a class="button" href="https://github.com/PasscodeFR">
             <span class="icon"><i class="fa fa-github"></i></span>
           </a> &nbsp;
 

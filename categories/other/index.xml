@@ -6,7 +6,7 @@
     <description>Recent content in Other on Ingress Decode Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018. All rights reserved.</copyright>
+    <copyright>&amp;copy; 2020. All rights reserved.</copyright>
     <lastBuildDate>Sat, 21 Apr 2018 05:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://passcode.fr/categories/other/index.xml" rel="self" type="application/rss+xml" />
@@ -27,8 +27,7 @@
       <pubDate>Sat, 21 Apr 2018 02:06:28 +0000</pubDate>
       
       <guid>https://passcode.fr/blog/2018/04/21/1718/</guid>
-      <description>areyouready not Are you ready？
- </description>
+      <description>areyouready not Are you ready？</description>
     </item>
     
     <item>
@@ -37,8 +36,10 @@
       <pubDate>Thu, 15 Feb 2018 14:14:59 +0000</pubDate>
       
       <guid>https://passcode.fr/blog/2018/02/15/2018xma-intel/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;pre&gt;文档一共包含13个密码，对应着13个地点。
+&lt;a href=&#34;https://passcode.fr/static/2018/02/WideTemporalSurvey.jpg&#34;&gt;&lt;img class=&#34;alignnone size-large wp-image-1488&#34; src=&#34;https://passcode.fr/static/2018/02/WideTemporalSurvey.jpg?x-oss-process=image/resize,m_fill,w_753,h_1024&#34; alt=&#34;&#34; width=&#34;753&#34; height=&#34;1024&#34; srcset=&#34;https://passcode.fr/static/2018/02/WideTemporalSurvey.jpg 1910w, https://passcode.fr/static/2018/02/WideTemporalSurvey.jpg?x-oss-process=image/resize,m_fill,w_220,h_300 220w, https://passcode.fr/static/2018/02/WideTemporalSurvey.jpg?x-oss-process=image/resize,m_fill,w_768,h_1045 768w, https://passcode.fr/static/2018/02/WideTemporalSurvey.jpg?x-oss-process=image/resize,m_fill,w_753,h_1024 753w&#34; sizes=&#34;(max-width: 753px) 100vw, 753px&#34; /&gt;&lt;/a&gt;
+处理一下图片
+&lt;a href=&#34;https://passcode.fr/static/2018/02/WideTemporalSurvey2.png&#34;&gt;&lt;img class=&#34;alignnone size-large wp-image-1489&#34; src=&#34;https://passcode.fr/static/2018/02/WideTemporalSurvey2.png?x-oss-process=image/resize,m_fill,w_753,h_1024&#34; alt=&#34;&#34; width=&#34;753&#34; height=&#34;1024&#34; srcset=&#34;https://passcode.fr/static/2018/02/WideTemporalSurvey2.png 1910w, https://passcode.fr/static/2018/02/WideTemporalSurvey2.png?x-oss-process=image/resize,m_fill,w_220,h_300 220w, https://passcode.fr/static/2018/02/WideTemporalSurvey2.png?x-oss-process=image/resize,m_fill,w_768,h_1045 768w, https://passcode.fr/static/2018/02/WideTemporalSurvey2.png?x-oss-process=image/resize,m_fill,w_753,h_1024 753w&#34; sizes=&#34;(max-width: 753px) 100vw, 753px&#34; /&gt;&lt;/a&gt;&lt;/pre&gt;</description>
     </item>
     
     <item>
@@ -61,7 +62,15 @@
       
       <guid>https://passcode.fr/blog/2017/11/29/exo5-day-two/</guid>
       <description>&lt;p&gt; &lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+&lt;table width=&#34;0&#34;&gt;
+  &lt;tr&gt;
+    &lt;td width=&#34;624&#34;&gt;
+      &lt;h2&gt;
+        &lt;strong&gt;背景和潜在影响&lt;/strong&gt;
+      &lt;/h2&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</description>
     </item>
     
     <item>

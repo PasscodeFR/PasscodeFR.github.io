@@ -6,7 +6,7 @@
     <description>Recent content in WOTDcode on Ingress Decode Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018. All rights reserved.</copyright>
+    <copyright>&amp;copy; 2020. All rights reserved.</copyright>
     <lastBuildDate>Thu, 12 Apr 2018 16:00:28 +0000</lastBuildDate>
     
 	<atom:link href="https://passcode.fr/categories/wotdcode/index.xml" rel="self" type="application/rss+xml" />
@@ -19,7 +19,7 @@
       
       <guid>https://passcode.fr/blog/2018/04/13/jojo-aranui/</guid>
       <description>&lt;h3 id=&#34;aranui&#34;&gt;ARANUI&lt;/h3&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Great path or great journey (Māori).&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Great path or great journey (Māori).&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;伟大的旅程&lt;/p&gt;</description>
     </item>
     
@@ -63,7 +63,7 @@
       
       <guid>https://passcode.fr/blog/2018/03/29/jojo-hypnicjerk/</guid>
       <description>&lt;h3 id=&#34;hypnicjerk&#34;&gt;HYPNICJERK&lt;/h3&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;An involuntary twitch which occurs when a person is beginning to fall asleep, often causing them to awaken suddenly for a moment.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span data-sheets-value=&#34;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;An involuntary twitch which occurs when a person is beginning to fall asleep, often causing them to awaken suddenly for a moment.&amp;quot;}&#34; data-sheets-userformat=&#34;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:[null,0],&amp;quot;12&amp;quot;:0}&#34;&gt;An involuntary twitch which occurs when a person is beginning to fall asleep, often causing them to awaken suddenly for a moment.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;一种不自觉的抽搐，发生在一个人开始入睡时，经常使他们突然醒来一会儿。&lt;/p&gt;</description>
     </item>
     
@@ -74,7 +74,7 @@
       
       <guid>https://passcode.fr/blog/2018/03/29/jojo-retrodict/</guid>
       <description>&lt;h3 id=&#34;retrodict&#34;&gt;RETRODICT&lt;/h3&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;To utilize present information or ideas to infer or explain a past event or state of affairs.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span data-sheets-value=&#34;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;To utilize present information or ideas to infer or explain a past event or state of affairs.&amp;quot;}&#34; data-sheets-userformat=&#34;{&amp;quot;2&amp;quot;:8395331,&amp;quot;3&amp;quot;:[null,0],&amp;quot;4&amp;quot;:[null,2,16777215],&amp;quot;9&amp;quot;:0,&amp;quot;12&amp;quot;:0,&amp;quot;14&amp;quot;:[null,2,0],&amp;quot;15&amp;quot;:&amp;quot;Arial&amp;quot;,&amp;quot;26&amp;quot;:400}&#34;&gt;To utilize present information or ideas to infer or explain a past event or state of affairs.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;利用现有的信息或思想来推断或解释过去的事件或事态。&lt;/p&gt;</description>
     </item>
     
@@ -107,7 +107,7 @@
       
       <guid>https://passcode.fr/blog/2018/03/06/jojo-adonize/</guid>
       <description>&lt;h3 id=&#34;adonize&#34;&gt;ADONIZE&lt;/h3&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;To make more attractive; to spruce up.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span data-sheets-value=&#34;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;To make more attractive; to spruce up.&amp;quot;}&#34; data-sheets-userformat=&#34;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:[null,0],&amp;quot;12&amp;quot;:0}&#34;&gt;To make more attractive; to spruce up.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;变得更有吸引力; 美化。&lt;/p&gt;</description>
     </item>
     
@@ -118,7 +118,7 @@
       
       <guid>https://passcode.fr/blog/2018/03/06/jojo-ingenerate/</guid>
       <description>&lt;h3 id=&#34;ingenerate&#34;&gt;INGENERATE&lt;/h3&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;To generate or produce within; self-existent.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span data-sheets-value=&#34;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;To generate or produce within; self-existent.&amp;quot;}&#34; data-sheets-userformat=&#34;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:[null,0],&amp;quot;12&amp;quot;:0}&#34;&gt;To generate or produce within; self-existent.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;在内部产生的，独立存在的&lt;/p&gt;</description>
     </item>
     
@@ -128,8 +128,8 @@
       <pubDate>Mon, 05 Mar 2018 17:19:44 +0000</pubDate>
       
       <guid>https://passcode.fr/blog/2018/03/06/jojo-oblivescence/</guid>
-      <description>&lt;h3 id=&#34;span-data-sheets-valuequot1quot2quot2quotquotoblivescencequot-data-sheets-userformatquot2quot16897quot3quotnull0quot12quot0quot17quot1oblivescencespan&#34;&gt;&lt;!-- raw HTML omitted --&gt;OBLIVESCENCE&lt;!-- raw HTML omitted --&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;遗忘的过程。&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;span-data-sheets-valuequot1quot2quot2quotquotoblivescencequot-data-sheets-userformatquot2quot16897quot3quotnull0quot12quot0quot17quot1oblivescencespan&#34;&gt;&lt;span data-sheets-value=&#34;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;OBLIVESCENCE&amp;quot;}&#34; data-sheets-userformat=&#34;{&amp;quot;2&amp;quot;:16897,&amp;quot;3&amp;quot;:[null,0],&amp;quot;12&amp;quot;:0,&amp;quot;17&amp;quot;:1}&#34;&gt;OBLIVESCENCE&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;span data-sheets-value=&#34;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;An act or the process of forgetting.&amp;quot;}&#34; data-sheets-userformat=&#34;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:[null,0],&amp;quot;12&amp;quot;:0}&#34;&gt;遗忘的过程。&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -139,7 +139,7 @@
       
       <guid>https://passcode.fr/blog/2018/03/06/jojo-denormalization/</guid>
       <description>&lt;h3 id=&#34;denormalization&#34;&gt;DENORMALIZATION&lt;/h3&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;A strategy used to increase the performance of a database infrastructure by adding redundant data to a normalized database to reduce problems with database queries&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span data-sheets-value=&#34;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;A strategy used to increase the performance of a database infrastructure by adding redundant data to a normalized database to reduce problems with database queries&amp;quot;}&#34; data-sheets-userformat=&#34;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:[null,0],&amp;quot;12&amp;quot;:0}&#34;&gt;A strategy used to increase the performance of a database infrastructure by adding redundant data to a normalized database to reduce problems with database queries&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;通过将冗余数据添加到规范化数据库减少数据库查询问题，提高数据库基础架构性能的一种策略&lt;/p&gt;</description>
     </item>
     
@@ -150,7 +150,7 @@
       
       <guid>https://passcode.fr/blog/2018/02/05/jojo-boustrophedon/</guid>
       <description>&lt;h3 id=&#34;boustrophedon&#34;&gt;&lt;strong&gt;Boustrophedon&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;An ancient method of writing in which the lines run alternately from right to left and from left to right.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span data-sheets-value=&#34;&#34; data-sheets-userformat=&#34;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:[null,0],&amp;quot;12&amp;quot;:0}&#34;&gt;An ancient method of writing in which the lines run alternately from right to left and from left to right.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;一种古代的写作方法，每一行从右到左然后从左到右交替地运行。&lt;/p&gt;</description>
     </item>
     
@@ -161,8 +161,8 @@
       
       <guid>https://passcode.fr/blog/2018/02/05/jojo-literatim/</guid>
       <description>&lt;h3 id=&#34;literatim&#34;&gt;&lt;strong&gt;Literatim&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Letter-for-letter; literally.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;逐字地,照字义地&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;span data-sheets-value=&#34;&#34; data-sheets-userformat=&#34;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:[null,0],&amp;quot;12&amp;quot;:0}&#34;&gt;Letter-for-letter; literally.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;op_dict_text2&#34;&gt;逐字地,照字义地&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -172,7 +172,7 @@
       
       <guid>https://passcode.fr/blog/2018/02/05/jojo-euhemerism/</guid>
       <description>&lt;h3 id=&#34;euhemerism&#34;&gt;&lt;strong&gt;Euhemerism&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;An approach to the interpretation of stories in which mythological tales are presumed to have originated from real historical events or personages; the concept that gods are based on historical heroes whose stories became exaggerated in retelling.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span data-sheets-value=&#34;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;An approach to the interpretation of stories in which mythological tales are presumed to have originated from real historical events or personages; the concept that gods are based on historical heroes whose stories became exaggerated in retelling.&amp;quot;}&#34; data-sheets-userformat=&#34;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:[null,0],&amp;quot;12&amp;quot;:0}&#34;&gt;An approach to the interpretation of stories in which mythological tales are presumed to have originated from real historical events or personages; the concept that gods are based on historical heroes whose stories became exaggerated in retelling.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;一种解释故事的方法，其中的神话故事被认为是源于真实的历史事件或人物; 神是以历史英雄为主的概念，故事在复述中被夸大了。&lt;/p&gt;</description>
     </item>
     
@@ -183,7 +183,7 @@
       
       <guid>https://passcode.fr/blog/2018/01/26/jojo-hypercathexis/</guid>
       <description>&lt;h3 id=&#34;hypercathexis&#34;&gt;&lt;strong&gt;Hypercathexis&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Excessive concentration of mental energy on something.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span data-sheets-value=&#34;&#34; data-sheets-userformat=&#34;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:[null,0],&amp;quot;12&amp;quot;:0}&#34;&gt;Excessive concentration of mental energy on something.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;精神力过度集中。&lt;/p&gt;</description>
     </item>
     
@@ -193,8 +193,8 @@
       <pubDate>Fri, 26 Jan 2018 05:56:10 +0000</pubDate>
       
       <guid>https://passcode.fr/blog/2018/01/26/jojo-ingratiation/</guid>
-      <description>&lt;h3 id=&#34;span-classkeywordingratiationspan&#34;&gt;&lt;!-- raw HTML omitted --&gt;Ingratiation&lt;!-- raw HTML omitted --&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;A psychological technique in which an individual attempts to influence, &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;manipulate or control another by becoming more attractive or likeable to their target.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+      <description>&lt;h3 id=&#34;span-classkeywordingratiationspan&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;Ingratiation&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;span data-sheets-value=&#34;&#34; data-sheets-userformat=&#34;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:[null,0],&amp;quot;12&amp;quot;:0}&#34;&gt;A psychological technique in which an individual attempts to influence, &lt;/span&gt;&lt;span data-sheets-value=&#34;&#34; data-sheets-userformat=&#34;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:[null,0],&amp;quot;12&amp;quot;:0}&#34;&gt;manipulate or control another by becoming more attractive or likeable to their target.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;一种尝试通过变得更有吸引力、更讨对方喜欢来影响、操纵或控制他人的心理战术。&lt;/p&gt;</description>
     </item>
     
@@ -205,8 +205,8 @@
       
       <guid>https://passcode.fr/blog/2018/01/22/jojo-totimal/</guid>
       <description>&lt;h3 id=&#34;totimal&#34;&gt;TOTimal&lt;/h3&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;A drawing or picture of a fictitious animal used to stimulate tip-of-the-tongue (TOT) events. &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;TOTimals generally combine features of many different animals, creating a familiar feel, while still making it impossible to identify the animal.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span data-sheets-value=&#34;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Speaking briefly and concisely.&amp;quot;}&#34; data-sheets-userformat=&#34;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:[null,0],&amp;quot;12&amp;quot;:0}&#34;&gt;A drawing or picture of a fictitious animal used to stimulate tip-of-the-tongue (TOT) events. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span data-sheets-value=&#34;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Speaking briefly and concisely.&amp;quot;}&#34; data-sheets-userformat=&#34;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:[null,0],&amp;quot;12&amp;quot;:0}&#34;&gt;TOTimals generally combine features of many different animals, creating a familiar feel, while still making it impossible to identify the animal.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;用于舌尖现象实验的虚构动物图画.&lt;/p&gt;
 &lt;p&gt;TOTimals 通常结合许多不同的动物的特征，创造一种熟悉的感觉，但仍然不可能辩认出这个动物是啥。&lt;/p&gt;</description>
     </item>
@@ -218,7 +218,7 @@
       
       <guid>https://passcode.fr/blog/2018/01/22/jojo-breviloquence/</guid>
       <description>&lt;p&gt;&lt;strong&gt;BREVILOQUENCE&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Speaking briefly and concisely. 简明扼要地发言&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;span data-sheets-value=&#34;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Speaking briefly and concisely.&amp;quot;}&#34; data-sheets-userformat=&#34;{&amp;quot;2&amp;quot;:513,&amp;quot;3&amp;quot;:[null,0],&amp;quot;12&amp;quot;:0}&#34;&gt;Speaking briefly and concisely. 简明扼要地发言&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -290,7 +290,7 @@
       <pubDate>Wed, 11 Oct 2017 03:28:51 +0000</pubDate>
       
       <guid>https://passcode.fr/blog/2017/10/11/jojo-ensconce/</guid>
-      <description></description>
+      <description>ENSCONCE To settle securely or snugly; to cover or shelter hide securely. 妥善安置；安全的隐藏或庇护 隐藏code nugofero1ush0gr51oso0u01j0sate5yasy0oe1rzf0a1101100000to5r0a01a0s0rtne5ap0o0tr0et1o0fraokz5u5u00w0ytao</description>
     </item>
     
     <item>
@@ -299,7 +299,7 @@
       <pubDate>Tue, 10 Oct 2017 17:19:26 +0000</pubDate>
       
       <guid>https://passcode.fr/blog/2017/10/11/jojo-discursive/</guid>
-      <description></description>
+      <description>DISCURSIVE Jumping from topic to topic; rambling. 主题各种跳转；散漫的 隐藏code hvmikoculicorvustvwq</description>
     </item>
     
     <item>
@@ -308,7 +308,7 @@
       <pubDate>Tue, 10 Oct 2017 02:31:12 +0000</pubDate>
       
       <guid>https://passcode.fr/blog/2017/10/10/jojo-aggiornamento/</guid>
-      <description></description>
+      <description>AGGIORNAMENTO The act of bringing something up to date to meet current needs. 为了满足当前需求而采取的行动。 隐藏code ysf00b10to0oi7sl00u00im0un0oy00t00ha0sm0nf0it00ac0ty0easwe00dhzhs0rraar00au8at0vm skip 13得： y7000000000z8000000000iwassonervousthatihadabutterflyfarminmystomachu1000000000sa 根据英语谚语把keyword换出来： y7z8hyperboleu1sa</description>
     </item>
     
     <item>
@@ -506,8 +506,8 @@
       <pubDate>Fri, 07 Jul 2017 04:00:45 +0000</pubDate>
       
       <guid>https://passcode.fr/blog/2017/07/07/2017-07-07jojos-g-vertex/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;pre&gt;&lt;strong&gt;VERTEX
+&lt;/strong&gt;The highest point; the top or apex.最高点；顶部或顶点&lt;/pre&gt;</description>
     </item>
     
     <item>
@@ -516,8 +516,9 @@
       <pubDate>Wed, 05 Jul 2017 15:20:53 +0000</pubDate>
       
       <guid>https://passcode.fr/blog/2017/07/05/2017-07-04jojos-g-penelopize/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;pre&gt;&lt;strong&gt;PENELOPIZE
+&lt;/strong&gt;To delay or gain time to put off an undesired event.(&lt;span class=&#34;LangWithName&#34;&gt;&lt;span lang=&#34;en&#34; xml:lang=&#34;en&#34;&gt;佩涅罗珀般的行事风格)&lt;/span&gt;&lt;/span&gt;推迟或拖延不想做的事。
+（&lt;span class=&#34;LangWithName&#34;&gt;&lt;span lang=&#34;en&#34; xml:lang=&#34;en&#34;&gt;Penelope：佩涅罗珀&lt;strong&gt;，&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;古希腊神话女性人物之一，英雄奥德修斯之妻。其事迹反映于荷马的《奥德赛》中。 奥德修斯参加特洛伊战争失踪后，她坚守未嫁10年并以计摆脱各种威逼利诱，后又在奥德修斯归来后与其合谋将图谋不轨者清除。）&lt;/pre&gt;</description>
     </item>
     
     <item>
@@ -526,7 +527,7 @@
       <pubDate>Tue, 04 Jul 2017 14:15:38 +0000</pubDate>
       
       <guid>https://passcode.fr/blog/2017/07/04/2017-07-04jojos-g-munchausen-trilemma/</guid>
-      <description></description>
+      <description>&lt;p&gt; &lt;/p&gt;</description>
     </item>
     
     <item>
@@ -544,8 +545,8 @@
       <pubDate>Sat, 01 Jul 2017 14:17:00 +0000</pubDate>
       
       <guid>https://passcode.fr/blog/2017/07/01/2017-07-01-jojos-g-previse/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;pre&gt;&lt;strong&gt;PREVISE
+&lt;/strong&gt;To foresee or predict an event.预见或预测事件。&lt;/pre&gt;</description>
     </item>
     
     <item>
@@ -572,8 +573,8 @@
       <pubDate>Sat, 24 Jun 2017 16:24:02 +0000</pubDate>
       
       <guid>https://passcode.fr/blog/2017/06/25/2017-06-25-jojos-gsurcease/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;pre&gt;&lt;strong&gt;SURCEASE
+&lt;/strong&gt;Stoppage, especially a temporary one.停止，特别指临时的。&lt;/pre&gt;</description>
     </item>
     
     <item>
@@ -591,8 +592,8 @@
       <pubDate>Wed, 21 Jun 2017 02:41:35 +0000</pubDate>
       
       <guid>https://passcode.fr/blog/2017/06/21/2017-06-21-jojos-g/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;pre&gt;ESTIVAL
+Pertaining or appropriate to summer.适合夏天.&lt;/pre&gt;</description>
     </item>
     
     <item>
@@ -611,7 +612,7 @@
       
       <guid>https://passcode.fr/blog/2017/06/19/2017-06-19-jojo-g/</guid>
       <description>&lt;h3 id=&#34;palabra&#34;&gt;PALABRA&lt;/h3&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+&lt;pre&gt;A word: talk, especially of an unnecessary, profuse, or idle nature; occasionally figurative.&lt;/pre&gt;</description>
     </item>
     
     <item>
@@ -629,8 +630,8 @@
       <pubDate>Sat, 17 Jun 2017 07:30:38 +0000</pubDate>
       
       <guid>https://passcode.fr/blog/2017/06/17/2017-06-17-jojos-g-wiegand-interface/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;pre&gt;&lt;strong&gt;WIEGAND INTERFACE
+&lt;/strong&gt;A de facto wiring standard commonly used for interconnecting peripherals (iris recognition devices) to the rest of an electronic entry system.&lt;/pre&gt;</description>
     </item>
     
     <item>
@@ -639,8 +640,10 @@
       <pubDate>Thu, 20 Apr 2017 10:44:53 +0000</pubDate>
       
       <guid>https://passcode.fr/blog/2017/04/20/2017-04-20jojos-geighty-six/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;pre&gt;&lt;strong&gt;EIGHTY SIX&lt;/strong&gt;
+
+Reject, discard, or cancel (86ed).
+拒绝，放弃或取消（86ed）。&lt;/pre&gt;</description>
     </item>
     
     <item>
