@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BIFID on Ingress Decode Group</title>
+    <link>https://passcode.fr/tags/bifid/</link>
+    <description>Recent content in BIFID on Ingress Decode Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 24 Sep 2017 14:27:30 +0000</lastBuildDate>
+    
+	<atom:link href="https://passcode.fr/tags/bifid/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2017-0924code REAWAKENING’S END</title>
+      <link>https://passcode.fr/blog/2017/09/24/2017-0924/</link>
+      <pubDate>Sun, 24 Sep 2017 14:27:30 +0000</pubDate>
+      
+      <guid>https://passcode.fr/blog/2017/09/24/2017-0924/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2017-07-15code VESSELS FOR POSSIBILITY</title>
+      <link>https://passcode.fr/blog/2017/07/15/2017-07-15code-vessels-for-possibility/</link>
+      <pubDate>Sat, 15 Jul 2017 15:27:34 +0000</pubDate>
+      
+      <guid>https://passcode.fr/blog/2017/07/15/2017-07-15code-vessels-for-possibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2017-07-08code FUTURE EDITS</title>
+      <link>https://passcode.fr/blog/2017/07/08/2017-07-08code-future-edits/</link>
+      <pubDate>Sat, 08 Jul 2017 13:53:11 +0000</pubDate>
+      
+      <guid>https://passcode.fr/blog/2017/07/08/2017-07-08code-future-edits/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
